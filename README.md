@@ -2,10 +2,6 @@
 
 Alt-nature is an open-source AI agent system designed to drag software engineers away from their screens and into nature. By combining open-weight model inference with environmental grounding , speech synthesis , and durable persistence , Alt-nature delivers screen-free outdoor audio quests.
 
----
-
-## 🚀 Why Open Innovation Matters Here
-
 Real outdoor exploration happens where cell reception dies. By leveraging open-weight models like **Gemma**, Alt-nature guarantees zero latency, absolute privacy for real-time outdoor locations, and complete independence from closed proprietary APIs. You get full control over your prompt pipelines and system guardrails without vendor lock-in.
 
 ---
