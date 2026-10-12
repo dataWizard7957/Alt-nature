@@ -28,9 +28,8 @@ Real outdoor exploration happens where cell reception dies. By leveraging open-w
    cd Alt-nature
    cp .env.example .env
 
-```
-
 2. **Install Dependencies:**
+
 ```bash
 pip install -r requirements.txt
 
