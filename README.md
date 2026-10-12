@@ -1,6 +1,6 @@
 # Alt-nature 🌿
 
-Alt-nature is an open-source AI agent system designed to drag software engineers away from their screens and into nature. By combining open-weight model inference (**Gemma**) with environmental grounding (**SerpAPI**), speech synthesis (**ElevenLabs**), and durable persistence (**MongoDB Atlas**), Alt-nature delivers screen-free outdoor audio quests.
+Alt-nature is an open-source AI agent system designed to drag software engineers away from their screens and into nature. By combining open-weight model inference with environmental grounding , speech synthesis , and durable persistence , Alt-nature delivers screen-free outdoor audio quests.
 
 ---
 
